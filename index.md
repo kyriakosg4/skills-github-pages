@@ -10,4 +10,4 @@ title: Welcome to my blog!
 print("nikos lakamas")
 ```
 
--[x] first activity 
+- [x] first activity 
