@@ -8,5 +8,6 @@ title: Welcome to my blog!
 
 ```bash
 print("nikos lakamas")
+```
 
 -[x] first activity 
