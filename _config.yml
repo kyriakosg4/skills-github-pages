@@ -1,6 +1,7 @@
 ---
 theme: minima
 ---
-title: Nikos's personal blog
+login: Nikos
+title: {{login}}'s personal blog
 description: This is where I share cool stuff about my life
 author: Nikos
